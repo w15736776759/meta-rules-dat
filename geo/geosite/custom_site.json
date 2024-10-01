@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "store-images.s-microsoft.com"
+        "store-images.s-microsoft.com",
+        "graph.microsoft.com"
       ],
       "domain_suffix": [
         "s-microsoft.com"
