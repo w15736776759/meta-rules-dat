@@ -2,11 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "store-images.s-microsoft.com"
-      ],
-      "domain_suffix": [
-        "microsoft.com"
+      "domain_keyword": [
+        "microsoft"
       ]
     }
   ]
